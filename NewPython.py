@@ -1,1 +1,1 @@
-print("This is a  python file to be commit on the main github")
+print("This is a python file to be commited and to be pushed on github")
